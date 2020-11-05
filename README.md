@@ -117,9 +117,9 @@ Go to `/src/index.html` and fill your information, they are 5 sections:
 <div id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title" class="load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Juan</span>
       <br />
-      I'm the Unknow Developer.
+      I'm the creative Developer.
     </h1>
     <p class="hero-cta" class="load-hidden">
       <a class="cta-btn cta-btn--hero" href="#about">Know more</a>
