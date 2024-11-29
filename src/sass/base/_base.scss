@@ -26,3 +26,11 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: $primary-color;
 }
+
+.tech-gradient {
+  background: linear-gradient(135deg, $primary-color 0%,
+  $secondary-color 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+}
